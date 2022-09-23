@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/note-app/static/css/main.76ce88ca.css",
+    "main.js": "/note-app/static/js/main.9e5643cc.js",
+    "static/media/tulis-catatan.png": "/note-app/static/media/tulis-catatan.cbbbe499f605f7bc454f.png",
+    "index.html": "/note-app/index.html",
+    "main.76ce88ca.css.map": "/note-app/static/css/main.76ce88ca.css.map",
+    "main.9e5643cc.js.map": "/note-app/static/js/main.9e5643cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ce88ca.css",
+    "static/js/main.9e5643cc.js"
+  ]
+}
